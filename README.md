@@ -3,6 +3,8 @@ MCDRPlugins
 随手搓了几个插件，在MCDReforged里使用  
 主要是为自己的存档写的，不一定大家都能用上  
 借鉴一下就好了，垃圾代码_(:з」∠)_  
+  
+配置文件请放在server/config
 
 - saymessage  
 玩家进入/死亡/退出时发送消息
